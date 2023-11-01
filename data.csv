@@ -1,8 +1,8 @@
 title;description;url;image
-myWebsite;A full-stack development project using Django framework to increase productivity.;https://github.com/sefi0609/myWebSite;21.PNG
+myWebsite;A full-stack development project using Django framework to increase productivity.;https://github.com/sefi0609/myWebSite;21.png
 Backup Server;A Multi-threaded client server application with security elements, written in C++, Python.;https://github.com/sefi0609/BackupServer;22.PNG
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20API;6.png
-Daily News Email;A script that gets daily news from an API and sends the articles via email, using Python;https://github.com/sefi0609/Python-Apps/tree/master/Daily%20News%20Email;25.PNG
+Daily News Email;A script that gets daily news from an API and sends the articles via email, using Python;https://github.com/sefi0609/Python-Apps/tree/master/Daily%20News%20Email;25.png
 Multi Chat;A client-server-based desktop application, a chat between two clients, using javaFX.;https://github.com/sefi0609/Java/tree/main/MultiChat;23.PNG
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/sefi0609/Portfolio-Website;2.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks, using stramlit.;https://github.com/sefi0609/Python-Apps/tree/master/To-Do%20list%20web%20app;1.png
