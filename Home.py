@@ -21,8 +21,8 @@ with col2:
         In addition I provide technical support to company employees and our users.  
         I have a high self-learning ability as a student at the open university,
         can learn new technologies and program Languages on my own.
-        Below you can find some of the apps I have built,
-        Using GUIs, Web Frameworks, APIs, Threads, Data Bases, Encryptions, Sockets and Binary Data.
+        Below you can find some of the apps I built using - 
+        GUIs, Web Frameworks, APIs, Threads, Data Bases, Encryptions, Sockets and Binary Data.
         Feel free to contact me via contact page."""
 
     st.info(content)
