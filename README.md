@@ -2,7 +2,7 @@
 
 This is my Portfolio website,  
 In this website you will find some of the project I've built,  
-Using Python, C++ and Java.  
+Using Python, C++, Java and HTML.  
 This website is powered by strimelit.  
 
 https://protfolio-yosefi-kroytoro.streamlit.app/
