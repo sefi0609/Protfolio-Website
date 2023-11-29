@@ -3,14 +3,14 @@ myWebsite;A full-stack development project using Django framework to increase pr
 Backup Server;A Multi-threaded client server application with security elements, C++, Python;https://github.com/sefi0609/BackupServer;22.PNG
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend, Python;https://github.com/sefi0609/Student-Management-System;17.png
 Weather Forecast;This is a Weather Forecast website. to bilud this website I've used an API, Python;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20Forecast;26.PNG
-Chat Bot;This is a desktop application that provides a GUI for ChatGPT, using openAI API, Python;https://github.com/sefi0609/Python-Apps/tree/master/Chat%20Bot;10.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20API;6.png
 Daily News Email;A script that gets daily news from an API and sends the articles via email, Python;https://github.com/sefi0609/Python-Apps/tree/master/Daily%20News%20Email;25.png
 Multi Chat;A client-server-based desktop application, a chat between two clients, java;https://github.com/sefi0609/Java/tree/main/MultiChat;23.PNG
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/sefi0609/Python-Apps/tree/master/Webcam%20Motion%20Detector;11.png
+Chat Bot;This is a desktop application that provides a GUI for ChatGPT, using openAI API, Python;https://github.com/sefi0609/Python-Apps/tree/master/Chat%20Bot;10.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps, Streamlit;https://github.com/sefi0609/Protfolio-Website;2.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks, Stramlit.;https://github.com/sefi0609/Python-Apps/tree/master/To-Do%20list%20web%20app;1.png
 Dictionary;A dictionary desktop application, you can add words and explanations, java.;https://github.com/sefi0609/Java/tree/main/Dictionary;24.PNG
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours, Python;https://github.com/sefi0609/Python-Apps/tree/master/Web%20Scraping;28.PNG
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines, Python;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Templates;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices, Python;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Invoices;4.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours, Python;https://github.com/sefi0609/Python-Apps/tree/master/Web%20Scraping;28.PNG
