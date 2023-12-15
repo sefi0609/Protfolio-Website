@@ -22,7 +22,7 @@ with col2:
         I have a high self-learning ability as a student at the open university,
         can learn new technologies and program Languages on my own.
         Below you can find some of the apps I built using - 
-        GUIs, Web Frameworks, APIs, Threads, Data Bases, Encryptions, Sockets and Binary Data.
+        GUIs, Web Frameworks, REST APIs, Threads, Data Bases, Encryptions, Sockets and Binary Data.
         Feel free to contact me via contact page."""
 
     st.info(content)
