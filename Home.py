@@ -14,7 +14,7 @@ with col1:
 with col2:
     st.title('Yosefi Kroytoro')
 
-    content = """I'm a computer science student at the open university, looking for a full time position.
+    content = """I have a BSc in computer science, cybersecurity program, from the open university.
         I'm working in a software company as a NOC operator, working with complex systems. 
         Acting as the first line of defence, collecting data, 
         responding to production issues and cyber attacks.
