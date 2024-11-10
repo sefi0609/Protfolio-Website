@@ -14,15 +14,13 @@ with col1:
 with col2:
     st.title('Yosefi Kroytoro')
 
-    content = """I'm a computer science student, at the open university, looking for a full time position.
-        I'm working in a software company as a NOC operator, working with complex systems. 
-        Acting as the first line of defence, collecting data, 
-        responding to production issues and cyber attacks.
-        In addition I provide technical support to company employees and our users.  
-        I have a high self-learning ability as a student at the open university, 
-        can learn new technologies and program Languages by myself.
-        Below you can find some of the apps I have built.
-        Feel free to contact me via the contact page."""
+    content = """
+    Site Reliability Engineer looking for a DevOps Engineer or SRE positions.
+    B.Sc. in Computer science , Cybersecurity Program, from the open university,
+    and a degree in Practical Engineering, Electronics and Computers.
+    Fast learner of new technologies, highly motivated to learn. Have the ability to learn fast and on my own.
+    Excellent interpersonal skills, diligence, ambition, and ability to troubleshoot complex problems.
+    """
 
     st.info(content)
 
