@@ -15,10 +15,10 @@ with col2:
     st.title('Yosefi Kroytoro')
 
     content = """
-    Site Reliability Engineer looking for a DevOps Engineer or SRE positions.
+    Site Reliability Engineer looking for a DevOps Engineer or SRE positions.\n
     B.Sc. in Computer science , Cybersecurity Program, from the open university,
-    and a degree in Practical Engineering, Electronics and Computers.
-    Fast learner of new technologies, highly motivated to learn. Have the ability to learn fast and on my own.
+    and a degree in Practical Engineering, Electronics and Computers.\n
+    Fast learner of new technologies, highly motivated to learn. Have the ability to learn fast and on my own.\n
     Excellent interpersonal skills, diligence, ambition, and ability to troubleshoot complex problems.
     """
 
