@@ -5,7 +5,7 @@ import os
 host = 'smtp.gmail.com'
 port = 465
 
-username = 'sefi0609@gmail.com'
+username = os.getenv('email_address')
 
 context = ssl.create_default_context()
 
