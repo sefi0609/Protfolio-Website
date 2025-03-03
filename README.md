@@ -9,6 +9,7 @@ In this website, you will find some of the projects I've built using:
 - **C++**  
 - **Java**  
 - **HTML & CSS**  
+- **AWS**
 
 This website is powered by **Streamlit**.  
 
