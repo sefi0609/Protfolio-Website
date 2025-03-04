@@ -6,10 +6,10 @@ In this website, you will find some of the projects I've built using:
 
 - **Python**  
 - **Terraform**
+- **AWS**
 - **C++**  
 - **Java**  
-- **HTML & CSS**  
-- **AWS**
+- **HTML & CSS**
 
 This website is powered by **Streamlit**.  
 

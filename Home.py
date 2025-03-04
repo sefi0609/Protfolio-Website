@@ -15,14 +15,10 @@ with col2:
     st.title('Yosefi Kroytoro')
 
     content = """
-    Greetings! My name is Yosefi Kroytoro,
-    and I’m a results-driven DevOps engineer with a talent for turning complex challenges into seamless solutions.\n
-    I specialize in automation and integrating complex software components to streamline workflows and enhance efficiency.\n
-    Additionally, I excel in monitoring software systems and implementing effective alerting mechanisms to ensure reliability and performance.\n
-    I have a B.Sc. in Computer science, Cybersecurity Program, from the open university,
-    and a degree in Practical Engineering, Electronics and Computers.\n
-    Fast learner of new technologies, highly motivated to learn. Have the ability to learn fast and on my own.\n
-    Excellent interpersonal skills, diligence, adaptable, innovative, and committed to delivering exceptional results.\n
+    Greetings! I'm Yosefi Kroytoro, a results-driven DevOps Engineer passionate about automation, reliability, and seamless software integration. I thrive on solving complex challenges and optimizing workflows to enhance system efficiency and performance.\n
+    With expertise in monitoring, alerting, and automation, I ensure robust and scalable infrastructures that keep businesses running smoothly. My strong analytical mindset enables me to integrate diverse technologies effectively, minimizing downtime and maximizing operational resilience.\n
+    I hold a B.Sc. in Computer Science (Cybersecurity) from the Open University and a Practical Engineering degree in Electronics and Computers. A fast learner with a deep curiosity for emerging technologies, I quickly adapt to new tools and methodologies, continuously expanding my skill set.\n
+    I take pride in my strong problem-solving skills, adaptability, and commitment to excellence. My ability to work independently, combined with excellent interpersonal skills, makes me a valuable asset in any DevOps-driven environment.\n
     """
 
     st.info(content)
