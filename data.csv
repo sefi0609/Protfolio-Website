@@ -14,6 +14,6 @@ Webcam Motion Detector;A Python script that detects motion via webcam and sends 
 Chat Bot;A desktop chatbot application using Python and the OpenAI API;https://github.com/sefi0609/Python-Apps/tree/master/Chat%20Bot;10.png
 Todo App;A distraction-free web app built with Streamlit to help users focus on creating and completing tasks;https://github.com/sefi0609/Python-Apps/tree/master/To-Do%20list%20web%20app;1.png
 Dictionary;A Java-based desktop dictionary where users can add words and definitions;https://github.com/sefi0609/Java/tree/main/Dictionary;24.PNG
-Tour Scraper;A Python script that scrapes a band's website for new tour dates and sends alerts;https://github.com/sefi0609/Python-Apps/tree/master/Web%20Scraping;28.PNG
+Tour Scraper;A Python script that scrapes a band's website for new tour dates and sends alerts;https://github.com/sefi0609/Python-Apps/tree/master/Tour%20Scraper;28.PNG
 PDF Templates;A Python script that generates multi-page PDF templates based on predefined guidelines;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Templates;3.png
 PDF Invoices;A Python script that converts Excel-based invoice records into formatted PDFs;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Invoices;4.png
