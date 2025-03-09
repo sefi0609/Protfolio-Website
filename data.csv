@@ -1,7 +1,7 @@
 title;description;url;image
 WakeUpPortfolio;A DevOps automation project designed to wake up a Streamlit app, ensuring it remains accessible;https://github.com/sefi0609/WakeUpPortfolio.git;29.png
 myWebsite;A full-stack development project built with the Django framework to enhance productivity;https://github.com/sefi0609/myWebSite;21.png
-Backup Server;A multi-threaded client-server application built with C++ and Python, incorporating security features;https://github.com/sefi0609/BackupServer;22.PNG
+Backup Server;A multi-threaded client-server application built with C++ and Python, incorporating security features;https://github.com/sefi0609/BackupServer;22.png
 Splunk Project;An SRE project demonstrating how to monitor system performance and create alerts using Splunk;https://github.com/sefi0609/SplunkProject.git;30.png
 Portfolio Website;A website built entirely in Python using Streamlit to showcase coding projects and applications;https://github.com/sefi0609/Protfolio-Website;2.png
 Student Management System;A desktop application for managing university student data, built with Python and an SQL database;https://github.com/sefi0609/Student-Management-System;17.png
