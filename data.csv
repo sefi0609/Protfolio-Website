@@ -1,19 +1,19 @@
 title;description;url;image
 WakeUpPortfolio;A DevOps automation project designed to wake up a Streamlit app, ensuring it remains accessible;https://github.com/sefi0609/WakeUpPortfolio.git;29.png
-myWebsite;A full-stack development project built with the Django framework to enhance productivity;https://github.com/sefi0609/myWebSite;21.png
-Backup Server;A multi-threaded client-server application built with C++ and Python, incorporating security features;https://github.com/sefi0609/BackupServer;22.PNG
-Splunk Project;An SRE project demonstrating how to monitor system performance and create alerts using Splunk;https://github.com/sefi0609/SplunkProject.git;30.png
+myWebsite;A full-stack Django project designed to boost productivity through web-based tools;https://github.com/sefi0609/myWebSite;21.png
+Backup Server;A secure, multi-threaded client-server backup system built with C++ and Python;https://github.com/sefi0609/BackupServer;22.PNG
+Splunk Project;An SRE-focused project for monitoring system performance and setting up alerts in Splunk;https://github.com/sefi0609/SplunkProject.git;30.png
 Portfolio Website;A website built entirely in Python using Streamlit to showcase coding projects and applications;https://github.com/sefi0609/Protfolio-Website;2.png
-Student Management System;A desktop application for managing university student data, built with Python and an SQL database;https://github.com/sefi0609/Student-Management-System;17.png
-Weather Forecast;A weather forecast website built using Python and a REST API for real-time weather updates;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20Forecast;26.PNG
-Weather API;A REST API built with Python and Flask to provide historical weather data for various cities;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20API;6.png
-Job Application;A full-stack web application built with the Django framework to assist company recruiters;https://github.com/sefi0609/Job-Application;27.png
-Daily News Email;A Python script that fetches daily news articles from a REST API and sends them via email;https://github.com/sefi0609/Python-Apps/tree/master/Daily%20News%20Email;25.png
-Multi Chat;A client-server desktop chat application built with Java, enabling real-time communication between two clients;https://github.com/sefi0609/Java/tree/main/MultiChat;23.PNG
-Webcam Motion Detector;A script that monitors a webcam and sends an email alert whenever a new object enters the camera's view;https://github.com/sefi0609/Python-Apps/tree/master/Webcam%20Motion%20Detector;11.png
-Chat Bot;A desktop application for interacting with ChatGPT, built using Python and the OpenAI API;https://github.com/sefi0609/Python-Apps/tree/master/Chat%20Bot;10.png
+Student Management System;A Python-based desktop app with MySQL integration for managing student data;https://github.com/sefi0609/Student-Management-System;17.png
+Weather Forecast;A real-time weather tracking website using Python and a REST API;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20Forecast;26.PNG
+Weather API;A Flask-based REST API that provides historical weather data for different cities;https://github.com/sefi0609/Python-Apps/tree/master/Weather%20API;6.png
+Job Application;A Django web app that helps recruiters streamline the job application process;https://github.com/sefi0609/Job-Application;27.png
+Daily News Email; A Python script that fetches news via REST API and emails daily updates;https://github.com/sefi0609/Python-Apps/tree/master/Daily%20News%20Email;25.png
+Multi Chat;A Java-based desktop chat app enabling real-time messaging between clients;https://github.com/sefi0609/Java/tree/main/MultiChat;23.PNG
+Webcam Motion Detector;A Python script that detects motion via webcam and sends email alerts;https://github.com/sefi0609/Python-Apps/tree/master/Webcam%20Motion%20Detector;11.png
+Chat Bot;A desktop chatbot application using Python and the OpenAI API;https://github.com/sefi0609/Python-Apps/tree/master/Chat%20Bot;10.png
 Todo App;A distraction-free web app built with Streamlit to help users focus on creating and completing tasks;https://github.com/sefi0609/Python-Apps/tree/master/To-Do%20list%20web%20app;1.png
-Dictionary;A desktop dictionary application built with Java, allowing users to add words and their explanations;https://github.com/sefi0609/Java/tree/main/Dictionary;24.PNG
-Tour Scraper;A Python script that monitors a music band's website and sends an email alert when new tour dates are announced;https://github.com/sefi0609/Python-Apps/tree/master/Web%20Scraping;28.PNG
+Dictionary;A Java-based desktop dictionary where users can add words and definitions;https://github.com/sefi0609/Java/tree/main/Dictionary;24.PNG
+Tour Scraper;A Python script that scrapes a band's website for new tour dates and sends alerts;https://github.com/sefi0609/Python-Apps/tree/master/Web%20Scraping;28.PNG
 PDF Templates;A Python script that generates multi-page PDF templates based on predefined guidelines;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Templates;3.png
-PDF Invoices;A Python script that reads invoice records from Excel files and automatically generates PDF invoices;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Invoices;4.png
+PDF Invoices;A Python script that converts Excel-based invoice records into formatted PDFs;https://github.com/sefi0609/Python-Apps/tree/master/PDF%20Invoices;4.png
